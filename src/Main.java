@@ -122,7 +122,7 @@ public  class Main {
         System.out.println("Денис теперь получает " + denisNewSalary + " рублей. Годовой доход" + (denisAnnualInkomeAfter - denisAnnualIncomeBefore) + " рублей.");
         System.out.println("Кристина теперь получает " + kristinaNewSalary + " ублей. Годовой доход" +(kristinaAnnualInkomeAfter - kristinaAnnualIncomeBefore) + "рублей.");
 
-        //Домашка 3
+        //Домашка 3.
 
 
 
